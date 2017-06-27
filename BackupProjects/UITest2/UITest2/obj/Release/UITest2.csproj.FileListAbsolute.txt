@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Release\UITest2.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Release\UITest2.pdb
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Release\nunit.framework.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Release\Xamarin.UITest.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Release\nunit.framework.xml
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Release\Xamarin.UITest.xml
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\obj\Release\UITest2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\obj\Release\UITest2.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\obj\Release\UITest2.pdb

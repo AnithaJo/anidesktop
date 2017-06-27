@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Debug\UITest2.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Debug\UITest2.pdb
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Debug\nunit.framework.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Debug\Xamarin.UITest.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Debug\nunit.framework.xml
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\bin\Debug\Xamarin.UITest.xml
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\obj\Debug\UITest2.dll
+c:\users\admin\documents\visual studio 2017\Projects\UITest2\UITest2\obj\Debug\UITest2.pdb

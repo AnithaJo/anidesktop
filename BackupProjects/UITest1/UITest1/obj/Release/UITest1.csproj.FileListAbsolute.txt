@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\UITest1.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\UITest1.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\nunit.framework.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.UITest.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\nunit.framework.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.UITest.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\obj\Release\UITest1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\obj\Release\UITest1.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\obj\Release\UITest1.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\UITest1\UITest1\bin\Release\Xamarin.Forms.Xaml.xml
